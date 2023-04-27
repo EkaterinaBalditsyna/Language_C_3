@@ -1,0 +1,15 @@
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\bin\Debug\net6.0\Practic.exe
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\bin\Debug\net6.0\Practic.deps.json
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\bin\Debug\net6.0\Practic.runtimeconfig.json
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\bin\Debug\net6.0\Practic.dll
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\bin\Debug\net6.0\Practic.pdb
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.csproj.AssemblyReference.cache
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.AssemblyInfoInputs.cache
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.AssemblyInfo.cs
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.csproj.CoreCompileInputs.cache
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.dll
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\refint\Practic.dll
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.pdb
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\Practic.genruntimeconfig.cache
+C:\Users\frppp\OneDrive\Рабочий стол\Language_C_Seminar3\Seminar_3\Practic\obj\Debug\net6.0\ref\Practic.dll
